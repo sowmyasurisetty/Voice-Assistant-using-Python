@@ -8,7 +8,7 @@ Play music: Play music from a specified directory on your computer.
 Tell the current time: Inform the user of the current time.
 Fetch weather details: Provide current weather details for a specified city using the OpenWeatherMap API.
 
-Installation
+Installation-
 To run this project on your local machine, follow these steps:
 -Clone the repository
 -Create a virtual environment
